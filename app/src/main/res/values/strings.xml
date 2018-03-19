@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="play_description">This is the activity where the user can see the song that is currently playing. The user will have three options: to stop, play and pause the track. Also, at the bottom, there will be a button so that the user can buy the song that they play</string>
+    <string name="library_description">This is a TextView to describe the user\'s library. The user will be able to see here their albums and songs that they have.</string>
+    <string name="whats_new_description">This activity will display any new music that is available and the user will be able to preview it and listen to it in the Playing Now page</string>
+    <string name="recent_description">From this screen the user will see the recently played tracks and will be able to play them by tapping on them. By tapping on them, the app should go to the NowPlaying activity</string>
+    <string name="track1">Track 1</string>
+    <string name="track2">Track 2</string>
+    <string name="track3">Track 3</string>
+    <string name="buy_descr">In this activity, the user will buy the track that is currently playing by clicking the button in the NowPlaying activity. The API that will be used will be the In-app Billing API by Google and more info can be found here https://developer.android.com/google/play/billing/api.html:</string>
+    <string name="back">Back to main menu</string>
+    <string name="main_descr">This is the main menu of the app. The user can navigate from this activity to the other parts of the app</string>
+</resources>
